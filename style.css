@@ -4,6 +4,7 @@ body {
     background-image: url(IMG_5464.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    position: fixed;
 }
 .links {
   position: fixed;
