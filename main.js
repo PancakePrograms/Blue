@@ -11,7 +11,7 @@ document.addEventListener("dblclick", () => {
     links.style.display = "none";
   } else {
     secret.style.display = "none";
-    links.style.display = "flex"
+    links.style.display = "flex";
+    body.style.backgroundImage = "url(/IMG_5464.jpg)";
   }
 })
-alert("changed")
