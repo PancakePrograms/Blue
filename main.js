@@ -12,6 +12,6 @@ document.addEventListener("dblclick", () => {
   } else {
     secret.style.display = "none";
     links.style.display = "flex";
-    body.style.backgroundImage = "url(/IMG_5464.jpg)";
+    body.style.backgroundImage = "url(IMG_5464.jpg)";
   }
 })
