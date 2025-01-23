@@ -15,4 +15,3 @@ document.addEventListener("dblclick", () => {
     body.style.backgroundImage = "url(IMG_5464.jpg)";
   }
 })
-alert("page update   1")
