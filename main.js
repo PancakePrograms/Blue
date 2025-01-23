@@ -6,7 +6,7 @@ const body = document.querySelector("body")
 document.addEventListener("dblclick", () => {
   
   if (secret.style.display === "none" || secret.style.display === "") {
-    body.style.backgroundImage = "url(/Untitled_Artwork.jpg)";
+    body.style.backgroundImage = "url(Untitled_Artwork.jpg)";
     secret.style.display = "block"
     links.style.display = "none";
   } else {
