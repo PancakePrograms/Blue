@@ -14,3 +14,4 @@ document.addEventListener("dblclick", () => {
     links.style.display = "flex"
   }
 })
+alert("changed")
